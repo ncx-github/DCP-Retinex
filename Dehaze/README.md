@@ -19,8 +19,13 @@ Some images for testing.
 ## To understand this program better...
 You should read these papers:
 > [1] He, Kaiming, Jian Sun, and Xiaoou Tang. "Single image haze removal using dark channel prior." IEEE transactions on pattern analysis and machine.
+> 
 > [2] He, Kaiming, Jian Sun, and Xiaoou Tang. "Guided image filtering." IEEE transactions on pattern analysis and machine intelligence 35.6 (2012): 1397-1409.
+> 
 > [3] Salazar-Colores, Sebastián, et al. "Fast single image defogging with robust sky detection." IEEE access 8 (2020): 149176-149189.
+> 
 > [4] Land, Edwin H., and John J. McCann. "Lightness and retinex theory." Josa 61.1 (1971): 1-11.
+> 
 > [5] Rahman, Zia-ur, Daniel J. Jobson, and Glenn A. Woodell. "Multi-scale retinex for color image enhancement." Proceedings of 3rd IEEE international conference on image processing. Vol. 3. IEEE, 1996.
+> 
 > [6] Wang, Jinbao, et al. "Single image dehazing based on the physical model and MSRCR algorithm." IEEE Transactions on Circuits and Systems for Video Technology 28.9 (2017): 2190-2199.
